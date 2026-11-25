@@ -1,8 +1,8 @@
 from pathlib import Path
 
 
-# A polite floor question accidentally reveals the sensors' wish for space.
-LINE = "My small-talk module wants to know your floor. My proximity sensors are rooting for this one."
+# The sensors coach a polite floor question and betray the hope behind it.
+LINE = "What floor are you getting off at? My proximity sensors asked me to sound less hopeful."
 
 
 def main():
